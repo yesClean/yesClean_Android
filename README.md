@@ -22,3 +22,5 @@
 - 배송조회 - 리스트 -> 운송장번호(배송조회) -> 현황 
 
 - 알람 - 팔로우한 작가 커뮤니티 새 글/ 새 작품 , 참여중인 작품 마감(d-day, 1시간전 ..) , 낙찰 확인 알림
+![KakaoTalk_20211015_170638031](https://user-images.githubusercontent.com/79956705/137453893-42dc4ed3-bb51-458c-ba79-cc8bf0ce01ca.jpg)
+![KakaoTalk_20211015_170637708](https://user-images.githubusercontent.com/79956705/137453897-65824ada-1f0d-408d-9bb8-89e9fefb2d9e.jpg)
